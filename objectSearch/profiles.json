@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Juan",
+        "lastName": "Alvarez",
+        "height": "5'6",
+        "country": "Mexico"
+    },
+
+    {
+        "name": "Marco",
+        "lastName": "lara",
+        "height": "5'7",
+        "country": "USA"
+    },
+
+    {
+        "name": "Paulina",
+        "lastName": "Smolka",
+        "height": "5'4",
+        "country": "Poland"
+    },
+
+    {
+        "name": "James",
+        "lastName": "Zin",
+        "height": "5'8",
+        "country": "Denmark"
+    },
+
+    {
+        "name": "Jake",
+        "lastName": "Phill",
+        "height": "5'9",
+        "country": "Germany"
+    }
+]
